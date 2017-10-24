@@ -1,8 +1,7 @@
 # Unity Music Visualizer
-Have you always wanted a way to visualize the waveform of the music you're listening to? 
-If yes, then go download any of the 1500 free music players available in the market.
+A minimalist waveform visualizer in Unity. Written in C#.
 
-Have you always wanted a way to visualize the waverform of the music you're listening to in an application made by Aryan Mann? 
-If yes, then go download Unity Music Visualizer!
+## Intention
+A spur of the moment idea that was easy enough to code in an hour and vague enough to use engage my creativity.
 
 ![Music Visualizer](http://i.imgur.com/cCjjHqk.png)
